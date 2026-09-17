@@ -1,0 +1,7 @@
+crewai
+google-genai
+feedparser
+requests
+beautifulsoup4
+resend
+yfinance
