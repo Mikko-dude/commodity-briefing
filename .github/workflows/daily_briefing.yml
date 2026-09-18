@@ -3,7 +3,7 @@ name: Daily Executive Commodity Briefing
 on:
   schedule:
     # Runs every Monday through Friday at 05:00 AM UTC (e.g., 07:00 AM Europe/Helsinki EEST)
-    - cron: '0 5 * * 1-5'
+    - cron: '17 5 * * 1-6'
   workflow_dispatch: # Allows you to manually trigger the script anytime from the GitHub "Actions" tab
 
 jobs:
